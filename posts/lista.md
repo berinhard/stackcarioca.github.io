@@ -56,6 +56,9 @@ repositórios dos projetos.
   discussão no Congresso que afetam a privacidade, a liberdade de expressão e o
 acesso ao meio digital.
 
+- [pyp5js](https://gitlab.com/berinhard/pyp5js): ferramenta para integrar código
+  Python no navegador integrado com a biblioteca [p5.js](https://p5js.org/).
+
 - [pypln-web](https://github.com/NAMD/pypln.web) e
   [pypln-backend](https://github.com/NAMD/pypln.backend) Pipeline distribuída
 para processamento de linguagem natural.
